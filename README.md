@@ -11,14 +11,6 @@ The dataset contains **3,229** high-quality emotional support dialogues between 
 
 Data and codes for AAAI 2025 paper: [SocialSim: Towards Socialized Simulation of Emotional Support Conversation](https://ojs.aaai.org/index.php/AAAI/article/view/32116)
 
-### Key Features
-
-- **3,229 Complete Dialogues**: Each containing multiple turns between seekers and supporters
-- **Detailed User Profiles**: Comprehensive demographic and psychological information
-- **Emotional Context**: Rich emotional states and coping strategies
-- **Supporter Reasoning**: Step-by-step reasoning processes for supporter responses
-- **Diverse Scenarios**: Covering various life situations and emotional challenges
-
 ## 📊 Dataset Overview
 
 ### Dataset Statistics
@@ -57,12 +49,6 @@ Each dialogue contains:
 }
 ```
 
-**Key Features:**
-- **Turn-based Structure**: Alternating seeker and supporter messages
-- **Supporter Reasoning**: Explicit step-by-step reasoning process for each supporter response
-- **Natural Language**: Realistic, empathetic conversation patterns
-- **Emotional Markers**: Natural use of emojis and emotional expressions
-
 ### 2. User Profiles (`SocialSim_UserProfile_full_3229.json`)
 
 Each user profile includes:
@@ -86,18 +72,6 @@ Each user profile includes:
   "Goals and Expectations": "Expected outcomes from the conversation"
 }
 ```
-
-## 🏷️ Topics and Categories
-
-The dataset covers diverse emotional support scenarios including:
-
-- **Academic Stress**: Study pressure, exam anxiety, classroom difficulties
-- **Work-related Issues**: Workplace conflicts, career concerns, job stress
-- **Relationship Problems**: Family conflicts, friendship issues, romantic relationships
-- **Personal Growth**: Self-esteem, confidence building, personal development
-- **Mental Health**: Anxiety, depression, stress management
-- **Life Transitions**: Major life changes, adaptation challenges
-- **Social Situations**: Communication difficulties, social anxiety
 
 ## 📄 License
 
