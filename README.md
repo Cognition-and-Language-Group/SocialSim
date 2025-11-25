@@ -5,13 +5,13 @@
 
 *Copyright © 2025 CoAI Group, Central South University. Licensed under CC BY-NC 4.0.*
 
-## 📖 Overview
+## Overview
 
 The dataset contains **3,229** high-quality emotional support dialogues between seekers and supporters, along with detailed user profiles that provide rich contextual information for each conversation participant. 
 
 Data and codes for AAAI 2025 paper: [SocialSim: Towards Socialized Simulation of Emotional Support Conversation](https://ojs.aaai.org/index.php/AAAI/article/view/32116)
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 ### Dataset Statistics
 
@@ -25,9 +25,9 @@ Data and codes for AAAI 2025 paper: [SocialSim: Towards Socialized Simulation of
 - **`SocialSim_SSConv_ESC_dataset_full_3229.json`**: Complete dialogue dataset with emotional support conversations
 - **`SocialSim_UserProfile_full_3229.json`**: User profiles with demographic and psychological information
 
-## 🎯 Dataset Components
+## Dataset Components
 
-### 1. Emotional Support Conversations (`SocialSim_SSConv_ESC_dataset_full_3229.json`)
+### Emotional Support Conversations (`SocialSim_SSConv_ESC_dataset_full_3229.json`)
 
 Each dialogue contains:
 
@@ -35,21 +35,21 @@ Each dialogue contains:
 {
   "ID": 1,
   "Dialogue": [
-    {
-      "Turn": 1,
-      "Seeker": "Initial message from the person seeking help"
-    },
-    {
-      "Turn": 2,
-      "Supporter Step by Step Reasoning": "[Detailed reasoning process]",
-      "Supporter": "Supportive response with empathy and guidance"
-    }
-    // ... additional turns
+	{
+	  "Turn": 1,
+	  "Seeker": "Initial message from the person seeking help"
+	},
+	{
+	  "Turn": 2,
+	  "Supporter Step by Step Reasoning": "[Detailed reasoning process]",
+	  "Supporter": "Supportive response with empathy and guidance"
+	}
+	// ... additional turns
   ]
 }
 ```
 
-### 2. User Profiles (`SocialSim_UserProfile_full_3229.json`)
+### User Profiles (`SocialSim_UserProfile_full_3229.json`)
 
 Each user profile includes:
 
@@ -73,21 +73,15 @@ Each user profile includes:
 }
 ```
 
-## 📄 License
+## License
 
 This dataset is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
 [![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-**Summary of CC BY-NC 4.0:**
-- ✅ **Share** — copy and redistribute the material in any medium or format
-- ✅ **Adapt** — remix, transform, and build upon the material
-- ✅ **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
-- ❌ **Non-Commercial** — You may not use the material for commercial purposes
-
 **For the full license text**, visit: https://creativecommons.org/licenses/by-nc/4.0/
 
-## 📝 Citation
+## Citation
 
 If you use this dataset or your research is related to our paper, please cite:
 
@@ -103,11 +97,11 @@ If you use this dataset or your research is related to our paper, please cite:
 }
 ```
 
-## 🤝 Contributing
+## Contributing
 
 This dataset is maintained by the CoAI Group at Central South University. For questions, suggestions, or collaboration inquiries, please contact the research group.
 
-## 📞 Contact
+## Contact
 
 - **Research Group**: CoAI Group, Central South University
 - **Year**: 2025
