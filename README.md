@@ -3,7 +3,7 @@
 [![Dataset](https://img.shields.io/badge/Dataset-3229_Conversations-blue)](#dataset-overview)
 [![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-*Copyright © 2025 CoAI Group, Central South University. Licensed under CC BY-NC 4.0.*
+*Copyright © 2025 Central South University. Licensed under CC BY-NC 4.0.*
 
 ## Overview
 
@@ -103,7 +103,7 @@ This dataset is maintained by the CoAI Group at Central South University. For qu
 
 ## Contact
 
-- **Research Group**: CoAI Group, Central South University
+- **Research Group**: Central South University
 - **Year**: 2025
 
 ---
