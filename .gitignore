@@ -11,3 +11,10 @@ wheels/
 
 # Claude environments
 .claude
+
+# UV generated file
+pyproject.toml
+uv.lock
+.python-version
+
+.gitignore
