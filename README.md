@@ -99,7 +99,7 @@ If you use this dataset or your research is related to our paper, please cite:
 
 ## Contributing
 
-This dataset is maintained by the CoAI Group at Central South University. For questions, suggestions, or collaboration inquiries, please contact the research group.
+This dataset is maintained by the CoLa Group at Central South University. For questions, suggestions, or collaboration inquiries, please contact the research group.
 
 ## Contact
 
